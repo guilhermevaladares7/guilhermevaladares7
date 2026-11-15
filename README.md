@@ -25,6 +25,46 @@
 - 💼 Aberto a oportunidades de **estágio em desenvolvimento**
 
 ---
+---
+
+## ✨ Aurea
+
+<div align="center">
+  <img src="mascote-aurea.png" width="128" />
+
+  ### Sites, sistemas e automações com IA para empresas
+
+  <a href="https://SEU-DOMINIO"><img src="https://img.shields.io/badge/Conheça_a_Aurea-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://wa.me/55SEUNUMERO"><img src="https://img.shields.io/badge/Orçamento_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.instagram.com/INSTA-DA-AUREA"><img src="https://img.shields.io/badge/@aurea-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      🌐<br/><b>Sites institucionais</b><br/>
+      <sub>Sites rápidos, responsivos e com domínio próprio para empresas que ainda não estão na internet</sub>
+    </td>
+    <td align="center" width="33%">
+      ⚙️<br/><b>Sistemas sob medida</b><br/>
+      <sub>Painéis administrativos, controle de vendas, estoque e entregas feitos para o negócio do cliente</sub>
+    </td>
+    <td align="center" width="33%">
+      🤖<br/><b>Automações com IA</b><br/>
+      <sub>Atendimento e processos automatizados para economizar tempo da equipe</sub>
+    </td>
+  </tr>
+</table>
+
+### 🗂️ Portfólio
+
+| Cliente | O que foi feito | Link |
+|---|---|---|
+| Biofarma | Site institucional para farmácia de manipulação | [Ver site](LINK) |
+| Calenda Móveis | Catálogo online + sistema de gestão | [Ver site](LINK) |
+| CLIENTE | DESCRIÇÃO | [Ver site](LINK) |
 
 ## 🛠️ Tecnologias
 
