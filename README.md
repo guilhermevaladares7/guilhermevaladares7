@@ -6,10 +6,10 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/guilherme-ferreira-valadares-43009640b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/SEU-INSTA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="SITE-DA-AUREA"><img src="https://img.shields.io/badge/Aurea-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.instagram.com/guilherme_valladares/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://auereastack.com.br/"><img src="https://img.shields.io/badge/Aurea-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
@@ -34,9 +34,9 @@
 
   ### Sites, sistemas e automações com IA para empresas
 
-  <a href="https://SEU-DOMINIO"><img src="https://img.shields.io/badge/Conheça_a_Aurea-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://wa.me/55SEUNUMERO"><img src="https://img.shields.io/badge/Orçamento_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://www.instagram.com/INSTA-DA-AUREA"><img src="https://img.shields.io/badge/@aurea-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://auereastack.com.br/"><img src="https://img.shields.io/badge/Conheça_a_Aurea-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="https://wa.me/5533999657071"><img src="https://img.shields.io/badge/Orçamento_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.instagram.com/aurea_stack/"><img src="https://img.shields.io/badge/@aurea-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
 <br/>
