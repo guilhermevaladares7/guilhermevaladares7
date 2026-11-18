@@ -21,7 +21,6 @@
 - ☕ Foco em **back-end com Java e Spring Boot**
 - 🚀 Fundador da **Aurea**, onde desenvolvo sites, sistemas e soluções com IA para empresas
 - 📍 Belo Horizonte, MG
-- 🔭 Atualmente: sistema de gestão para uma loja de móveis e um sistema hospitalar em Spring Boot
 - 💼 Aberto a oportunidades de **estágio em desenvolvimento**
 
 ---
